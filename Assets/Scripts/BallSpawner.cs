@@ -58,7 +58,7 @@ public class BallSpawner : MonoBehaviour
     }
 
 
-    //Prive methods
+    //Private methods
 
     private void SpawnLineOfBalls()
     {

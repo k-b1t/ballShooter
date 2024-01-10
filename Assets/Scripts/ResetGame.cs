@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class RessetGame : MonoBehaviour
+public class ResetGame : MonoBehaviour
 {
     private void OnTriggerEnter(Collider other)
     {
